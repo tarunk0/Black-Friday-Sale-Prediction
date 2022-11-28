@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: black-friday-application
-        image: myacrrepo8459.azurecr.io/tarunk0/Black-Friday-Sale-Prediction
+        image: myacrrepo8459.azurecr.io/tarunk0/black-friday-sale-prediction
         ports:
         - containerPort: 5000
 # service type loadbalancer       
